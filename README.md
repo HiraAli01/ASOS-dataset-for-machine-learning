@@ -10,16 +10,16 @@ Download dataset from Google Drive:
 
 This dataset is useful for:
 
-Exploratory Data Analysis (EDA)
-Price prediction models
-Product classification tasks
-Trend and category analysis in fashion data
-Building a strong foundation in data analytics
+- Exploratory Data Analysis (EDA)
+- Price prediction models
+- Product classification tasks
+- Trend and category analysis in fashion data
+- Building a strong foundation in data analytics
 
  ## Dataset Features 
-Product Name
-Brand
-Price
-Category
-Color
-Gender
+- Product Name  
+- Brand  
+- Price  
+- Category  
+- Color  
+- Gender  
