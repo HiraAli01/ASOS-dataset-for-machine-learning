@@ -1,25 +1,35 @@
-# ASOS-dataset-for-machine-learning
-This dataset contains approximately 30,000 fashion products collected from ASOS, including detailed attributes such as product name, brand, price, category, color, and gender. The dataset is designed to support data analysis and machine learning tasks, making it ideal for beginners and intermediate learners in data science.
+## Demand Forcasting
+This dataset consists of 76,000 records and 16 features related to demand forecasting in a retail environment. It includes information about products, stores, sales, and external influencing factors such as weather conditions, promotions, seasonality, and competitor pricing. The dataset captures both operational variables like inventory level, units sold, and units ordered, as well as contextual variables that impact demand patterns. It is well-suited for performing exploratory data analysis (EDA), building predictive models, and understanding the factors affecting product demand over time.
 
 ## 📂 Dataset
 
-Download dataset from Google Drive:
-👉 https://docs.google.com/spreadsheets/d/1USHbCmW5HqWmiFfLTYt_ekPOGetJ-Pa_QnGjGvAgpXI/edit?usp=sharing
+Download dataset:
+👉 https://github.com/HiraAli01/ASOS-dataset-for-machine-learning/raw/main/demand_forecasting.csv
 
 ## 📊 Dataset Purpose
 
 This dataset is useful for:
 
-- Exploratory Data Analysis (EDA)
-- Price prediction models
-- Product classification tasks
-- Trend and category analysis in fashion data
-- Building a strong foundation in data analytics
+- Exploratory Data Analysis (EDA)  
+- Demand forecasting and prediction  
+- Trend and seasonality analysis  
+- Impact of pricing and promotions  
+- Machine learning practice  
 
  ## Dataset Features 
-- Product Name  
-- Brand  
-- Price  
+- Date  
+- Store ID  
+- Product ID  
 - Category  
-- Color  
-- Gender  
+- Region  
+- Inventory Level  
+- Units Sold  
+- Units Ordered  
+- Price  
+- Discount  
+- Weather Condition  
+- Promotion  
+- Competitor Pricing  
+- Seasonality  
+- Epidemic  
+- Demand   
